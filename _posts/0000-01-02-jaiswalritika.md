@@ -2,4 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 
-my first experience
+my first experience of coding is like hell
